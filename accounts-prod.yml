@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to TrustWave Bank accounts related Proud APIs "
   contactDetails:
     name: "John Doe - Product Owner"
-    email: "john@ttrustwavebank.com"
+    email: "{cipher}0dae9086d37a693c3a17be63e280ccfecfd130fd74a2a45f39d3c6329c6715028363b8d89e0ad96fd08d5f52b50ecec8"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
