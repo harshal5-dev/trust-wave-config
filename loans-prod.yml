@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to TrustWave Bank loans related Prod APIs "
+  message: "Welcome to TrustWave Bank loans related Prod Webhook APIs "
   contactDetails:
     name: "John Doe - Product Owner"
     email: "john@ttrustwavebank.com"
