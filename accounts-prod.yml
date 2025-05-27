@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to TrustWave Bank accounts related Production APIs "
+  message: "Welcome to TrustWave Bank accounts related Prod APIs "
   contactDetails:
     name: "John Doe - Product Owner"
     email: "{cipher}0dae9086d37a693c3a17be63e280ccfecfd130fd74a2a45f39d3c6329c6715028363b8d89e0ad96fd08d5f52b50ecec8"
